@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://yofusloge.github.io/sitemap.html.gz
+Sitemap: https://yofusloge.github.io/app/sitemap.html.gz
+Sitemap: https://yofusloge.github.io/assets/sitemap.html.gz
+Sitemap: https://yofusloge.github.io/css/sitemap.html.gz
+Sitemap: https://yofusloge.github.io/includes/sitemap.html.gz
+Sitemap: https://yofusloge.github.io/item/sitemap.html.gz
+Sitemap: https://yofusloge.github.io/src/sitemap.html.gz
